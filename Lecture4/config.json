@@ -1,0 +1,11 @@
+{
+    "LEFT_X" : -5,
+    "RIGHT_X" : 5,
+    "TOP_Y" : 5,
+    "BOTTOM_Y" : -5,
+    "X0" : 0,
+    "Y0" : 0,
+    "NUM_STEPS" : 1000,
+    "MAX_STEP_X" : 2,
+    "MAX_STEP_Y" : 2
+}
